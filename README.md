@@ -1,0 +1,4 @@
+# Yui
+akichi.jvmが開発しているWindowsやUNIX系OS上で動作するJavaで書かれたOSです。
+使用条件などはありませし、改造、再配布なども自由です。バグの報告などがあればakichjimage@gmail.comまで連絡していただけると幸いです。
+akichi.jvmへの参加やYuiについてのコメントも上記まで連絡していただけるとこれまた幸いです。
